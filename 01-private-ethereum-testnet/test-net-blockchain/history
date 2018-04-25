@@ -1,0 +1,13 @@
+
+web3.fromWei(eth.getBalance(eth.accounts[0]), "ether")
+eth.accounts[1]
+personal.listAccounts
+txpool.status
+admin.nodeInfo
+admin.peers
+isConnected()
+web3.isConnected()
+web3.isConnected;
+web3.isConnected
+web3.isConnected()
+web3.eth.blockNumber

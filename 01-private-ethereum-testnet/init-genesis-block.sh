@@ -1,0 +1,1 @@
+geth --identity "MyTestNetNode" --nodiscover --networkid 1999 --datadir /Users/WWWillems/Dev/Crypto/eth-solidity-hello-world/test-net-blockchain  init /Users/WWWillems/Dev/Crypto/eth-solidity-hello-world/CustomGenesis.json
